@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-16:33:12	296/296	---M--	404	error ('Not%20Found')	text/html	date:Tue,%2019%20Oct%202021%2009:33:11%20GMT	http://localhost/robots.txt		(from )
-16:33:16	75024/75024	---MC-	200	added ('OK')	text/html	date:Tue,%2019%20Oct%202021%2009:33:12%20GMT	http://localhost/wordpress/	C:/My%20Web%20Sites/web/localhost/wordpress/index.html	(from )
-16:33:17	42/42	---M--	405	error ('Method%20Not%20Allowed')	text/plain	date:Tue,%2019%20Oct%202021%2009:33:16%20GMT	http://localhost/wordpress/xmlrpc.php	C:/My%20Web%20Sites/web/localhost/wordpress/xmlrpc.php	(from http://localhost/wordpress/)
